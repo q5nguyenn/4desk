@@ -1,0 +1,36 @@
+﻿@model LoginViewModel
+@{
+    Layout = "_LayoutAuthentication";
+}
+
+<div class="dx-popup dx-popup-signin d-flex justify-content-center" id="login">
+    <div class="dx-signin-content dx-signin text-center">
+        <h1 class="h3 text-white mb-30">Log In</h1>
+        <form action="/Accounts/Login" method="post" class="dx-form">
+            <div class="dx-form-group-md">
+                <a href="account.html" class="dx-btn dx-btn-block dx-btn-popup dx-btn-envato d-flex align-items-center justify-content-center">
+                    <span class="fab fa-google mr-20"></span><span>Log in with Google</span>
+                </a>
+            </div>
+            <div class="dx-form-group-md">
+                <div class="dx-signin-or">OR</div>
+            </div>
+            <div class="dx-form-group-md">
+                <input asp-for="UserName" type="text" class="form-control form-control-style-4" placeholder="Username Or Email">
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="dx-form-group-md">
+                <input asp-for="Password" type="password" class="form-control form-control-style-4" placeholder="Password">
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="dx-form-group-md">
+                <button type="submit" class="dx-btn dx-btn-block dx-btn-popup">Log In</button>
+            </div>
+            <div class="dx-form-group-md">
+                <div class="d-flex justify-content-between">
+                    <a data-fancybox data-touch="false" data-close-existing="true" data-src="#reset-password" href="javascript:;">Reset your password</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

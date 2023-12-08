@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\4Desk_OHD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\4Desk_OHD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\css\\amdesk.min.css",
+      "PackagePath": "staticwebassets\\css\\amdesk.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\avatar-1.png",
+      "PackagePath": "staticwebassets\\images\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\avatar-2.png",
+      "PackagePath": "staticwebassets\\images\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\avatar-3.png",
+      "PackagePath": "staticwebassets\\images\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\avatar-default.svg",
+      "PackagePath": "staticwebassets\\images\\avatar-default.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\bg-header-2.png",
+      "PackagePath": "staticwebassets\\images\\bg-header-2.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\bg-header-3.png",
+      "PackagePath": "staticwebassets\\images\\bg-header-3.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\bg-header-4.png",
+      "PackagePath": "staticwebassets\\images\\bg-header-4.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\bg-header-5.png",
+      "PackagePath": "staticwebassets\\images\\bg-header-5.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\bg-header.png",
+      "PackagePath": "staticwebassets\\images\\bg-header.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-1-md.png",
+      "PackagePath": "staticwebassets\\images\\blog-1-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-1-sm.png",
+      "PackagePath": "staticwebassets\\images\\blog-1-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-1.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-2-md.png",
+      "PackagePath": "staticwebassets\\images\\blog-2-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-2.png",
+      "PackagePath": "staticwebassets\\images\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-3-sm.png",
+      "PackagePath": "staticwebassets\\images\\blog-3-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-3.png",
+      "PackagePath": "staticwebassets\\images\\blog-3.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-4-md.png",
+      "PackagePath": "staticwebassets\\images\\blog-4-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-4.png",
+      "PackagePath": "staticwebassets\\images\\blog-4.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-5-md.png",
+      "PackagePath": "staticwebassets\\images\\blog-5-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\blog-5.png",
+      "PackagePath": "staticwebassets\\images\\blog-5.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\decorated-pattern-dark.svg",
+      "PackagePath": "staticwebassets\\images\\decorated-pattern-dark.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\decorated-pattern-light.svg",
+      "PackagePath": "staticwebassets\\images\\decorated-pattern-light.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\icon-bag.svg",
+      "PackagePath": "staticwebassets\\images\\icon-bag.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\icon-drop.svg",
+      "PackagePath": "staticwebassets\\images\\icon-drop.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\icon-jpg.svg",
+      "PackagePath": "staticwebassets\\images\\icon-jpg.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\payment-card.png",
+      "PackagePath": "staticwebassets\\images\\payment-card.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\payment-paypal.png",
+      "PackagePath": "staticwebassets\\images\\payment-paypal.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-1-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-1-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-1-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-1-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-1-xs.png",
+      "PackagePath": "staticwebassets\\images\\product-1-xs.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-10-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-10-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-10.png",
+      "PackagePath": "staticwebassets\\images\\product-10.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-11-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-11-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-11.png",
+      "PackagePath": "staticwebassets\\images\\product-11.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-12-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-12-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-12.png",
+      "PackagePath": "staticwebassets\\images\\product-12.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-2-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-2-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-2-md.png",
+      "PackagePath": "staticwebassets\\images\\product-2-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-2-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-2-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-2-xs.png",
+      "PackagePath": "staticwebassets\\images\\product-2-xs.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-3-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-3-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-3-md.png",
+      "PackagePath": "staticwebassets\\images\\product-3-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-3-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-3-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-3-xs.png",
+      "PackagePath": "staticwebassets\\images\\product-3-xs.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-4-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-4-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-4-md.png",
+      "PackagePath": "staticwebassets\\images\\product-4-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-4-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-4-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-4-xs.png",
+      "PackagePath": "staticwebassets\\images\\product-4-xs.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-4.png",
+      "PackagePath": "staticwebassets\\images\\product-4.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-5-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-5-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-5-md.png",
+      "PackagePath": "staticwebassets\\images\\product-5-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-5-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-5-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-5-xs.png",
+      "PackagePath": "staticwebassets\\images\\product-5-xs.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-5.png",
+      "PackagePath": "staticwebassets\\images\\product-5.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-6-lg.png",
+      "PackagePath": "staticwebassets\\images\\product-6-lg.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-6-md.png",
+      "PackagePath": "staticwebassets\\images\\product-6-md.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-6-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-6-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-6.png",
+      "PackagePath": "staticwebassets\\images\\product-6.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-7-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-7-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-7.png",
+      "PackagePath": "staticwebassets\\images\\product-7.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-8-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-8-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-8.png",
+      "PackagePath": "staticwebassets\\images\\product-8.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-9-sm.png",
+      "PackagePath": "staticwebassets\\images\\product-9-sm.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\images\\product-9.png",
+      "PackagePath": "staticwebassets\\images\\product-9.png"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\js\\amdesk-init copy.js",
+      "PackagePath": "staticwebassets\\js\\amdesk-init copy.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\js\\amdesk-init.js",
+      "PackagePath": "staticwebassets\\js\\amdesk-init.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\js\\amdesk.min copy.js",
+      "PackagePath": "staticwebassets\\js\\amdesk.min copy.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\js\\amdesk.min.js",
+      "PackagePath": "staticwebassets\\js\\amdesk.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\bootstrap-select\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\cleave.js\\dist\\cleave.min.js",
+      "PackagePath": "staticwebassets\\vendor\\cleave.js\\dist\\cleave.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\dropzone\\dist\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\dropzone\\dist\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\fontawesome-free\\js\\all.js",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\fontawesome-free\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\gist-embed\\dist\\gist-embed.min.js",
+      "PackagePath": "staticwebassets\\vendor\\gist-embed\\dist\\gist-embed.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\isotope-layout\\dist\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\dist\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\jarallax\\dist\\jarallax-video.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jarallax\\dist\\jarallax-video.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\jarallax\\dist\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jarallax\\dist\\jarallax.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\object-fit-images\\dist\\ofi.min.js",
+      "PackagePath": "staticwebassets\\vendor\\object-fit-images\\dist\\ofi.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\dist\\pe-icon-7-stroke.min.css",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\dist\\pe-icon-7-stroke.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\vendor\\pixeden-stroke-7-icon\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\quill\\dist\\quill.min.js",
+      "PackagePath": "staticwebassets\\vendor\\quill\\dist\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\quill\\dist\\quill.snow.css",
+      "PackagePath": "staticwebassets\\vendor\\quill\\dist\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\sticky-kit\\dist\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sticky-kit\\dist\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Demo\\4Desk_OHD\\wwwroot\\vendor\\validator\\validator.min.js",
+      "PackagePath": "staticwebassets\\vendor\\validator\\validator.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.4Desk_OHD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.4Desk_OHD.props",
+      "PackagePath": "build\\4Desk_OHD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.4Desk_OHD.props",
+      "PackagePath": "buildMultiTargeting\\4Desk_OHD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.4Desk_OHD.props",
+      "PackagePath": "buildTransitive\\4Desk_OHD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

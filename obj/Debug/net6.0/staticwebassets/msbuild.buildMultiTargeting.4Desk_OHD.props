@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4Desk_OHD.props" />
+</Project>
